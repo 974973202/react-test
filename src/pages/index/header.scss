@@ -1,0 +1,17 @@
+.header{
+  width: 100%;
+  &_img {
+    width: 100%;
+  }
+  &_hot {
+    position: relative;
+    height: .54rem;
+    line-height: .54rem;
+    font-size: .30rem;
+    color: #fff;
+    // text-align: left;
+    // overflow: hidden;
+    padding-left: .05rem;
+    background-image: linear-gradient(90deg, #ff3f68, #f61d4a);
+  }
+}

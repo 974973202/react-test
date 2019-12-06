@@ -1,0 +1,15 @@
+.fix-wrapper {
+  position: relative;
+  z-index: 2;
+  .text {
+    position: absolute;
+    left: 0;
+    top: 4rem;
+    background-color: #fff;
+    color: #000;
+    border-radius: .1rem;
+    height: .3rem;
+    line-height: .3rem;
+    padding: 0 .1rem 0 .3rem;
+  }
+}
